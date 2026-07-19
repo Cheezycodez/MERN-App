@@ -3,6 +3,9 @@
 ## Overview
 This project focuses on infrastructures as an extension of a base MERN (MongoDB, Express, React, Node.js) application originally developed by [doananhtingithub40102](https://github.com/doananhtingithub40102/mern-app). It was extended to implement a microservices architecture using containerisation and orchestration. The objective was to decouple the application components, establish secure internal networking, and create a scalable deployment environment using Docker and Kubernetes.
 
+## Project Scope:
+Please note that the focus of this project is the secure DevOps infrastructure, containerisation, and orchestration. The MERN application code is utilised only to demonstrate deployment frameworks and internal networking principles. So not all frontend application features are fully functional.
+
 ## Tech Stack and Tools
 * **Core Application:** MongoDB, Express.js, React, Node.js
 * **Containerisation:** Docker, Docker Compose
